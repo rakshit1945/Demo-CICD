@@ -84,5 +84,5 @@ with DAG(
         gcp_conn_id="google_cloud_default",
     )
 
-    # Task Dependencies
+    # Task Dependencies, Chronology
     file_sensor >> pyspark_task
