@@ -1,7 +1,7 @@
 {
     "env": "prod",
-    "gcs_bucket": "airflow-projetcs-gds",
-    "bq_project": "psyched-service-442305-q1",
+    "gcs_bucket": "airflow-projects-rj",
+    "bq_project": "tough-pod-475707-m1",
     "bq_dataset": "flight_data_prod",
     "tables": {
       "transformed_table": "transformed_flight_data_prod",
